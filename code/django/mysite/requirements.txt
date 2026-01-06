@@ -1,0 +1,6 @@
+django_cors_headers
+mysqlclient
+django_rest_framework
+PyJWT==2.1.0
+djangorestframework_simplejwt
+
